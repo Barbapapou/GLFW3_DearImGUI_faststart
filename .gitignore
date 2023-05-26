@@ -1,3 +1,4 @@
 imgui
+.idea
 # Project exclude paths
 /cmake-build-debug/
